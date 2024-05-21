@@ -9,4 +9,4 @@
 -  Pronouns: ela/dela
 -  Sou estudante do alura
 -  Estou me desenvolvendo na linguagem JavaScript
--  Ultilizo esse espaco para minha organizacäo e compartilhamento dos meus projetos desenvolvidos
+-  Ultilizo esse espaço para minha organizaçäo e compartilhamento dos meus projetos desenvolvidos
